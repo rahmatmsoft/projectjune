@@ -36,9 +36,8 @@
                <username>${username}</username>
                <password>${password}</password>
                <applicationName>${cloudhub.application.name}</applicationName>
-                <environment>${environment}</environment>
-                <region>${region}</region>
-                <workers>${workers}</workers>
+                <environment>Sandbox</environment>
+                   <workers>${workers}</workers>
                 <workerType>${vCore}</workerType>
                  <properties>
         <key>value</key>
